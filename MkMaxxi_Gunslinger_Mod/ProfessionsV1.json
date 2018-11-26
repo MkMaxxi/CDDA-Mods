@@ -65,8 +65,8 @@
         ],
         "entries": [
           { "item": "knife_hunting", "container-item": "sheath" },
-          { "item": "colt_army", "ammo-item": "44army", "charges": 6, "Container-item": "sholster"  },
-          { "item": "44army", "charges": 24 }
+          { "item": "colt_army", "ammo-item": "44army", "charges": 5, "Container-item": "sholster"  },
+          { "item": "44army", "charges": 25 }
         ]
       },
       "male": [ "boxer_shorts" ],
